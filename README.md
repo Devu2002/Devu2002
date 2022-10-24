@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devu2002
 - 👀 I’m interested in Data Science, Ethical Hacking, Web Development, Cloud Computing,etc.
-- 🌱 I’m currently learning Python (as a hobby). I am currently a second year undergrade, CSE, in Kerala, India.
+- 🌱 I’m currently learning Python (as a hobby). I am currently a third year undergrade, CSE, in Kerala, India.
 - 💞️ I’m looking to collaborate on ..oh well I dunno
 - 📫 How to reach me  
 
